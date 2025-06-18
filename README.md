@@ -1,4 +1,4 @@
-#  Retail Sales & Inventory Forecasting for Café Coffee Day (IITM Branch)
+#  Optimizing Inventory and Sales Forecasting in Retail through Predictive Analytics for Café Coffee Day (IITM Branch)
 
 **Capstone Project | MA5755 - Data Analysis and Visualization | IIT Madras**
 
